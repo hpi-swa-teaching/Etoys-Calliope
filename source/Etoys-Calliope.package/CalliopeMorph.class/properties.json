@@ -1,0 +1,14 @@
+{
+	"category" : "Etoys-Calliope",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jono 5/23/2017 16:14",
+	"instvars" : [
+		 ],
+	"name" : "CalliopeMorph",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }
