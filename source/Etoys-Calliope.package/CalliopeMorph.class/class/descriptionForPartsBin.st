@@ -4,4 +4,4 @@ descriptionForPartsBin
 
 	^ self partName:	'Calliope Mini' translatedNoop
 		categories:		{'Calliope' translatedNoop}
-		documentation:	'A mini computer' translatedNoop
+		documentation:	'A framework for creating tutorial snippets' translatedNoop
