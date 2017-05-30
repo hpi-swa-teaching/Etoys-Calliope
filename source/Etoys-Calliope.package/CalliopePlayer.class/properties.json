@@ -1,0 +1,14 @@
+{
+	"category" : "Etoys-Calliope",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "CalliopePlayer",
+	"pools" : [
+		 ],
+	"super" : "Player",
+	"type" : "normal" }
