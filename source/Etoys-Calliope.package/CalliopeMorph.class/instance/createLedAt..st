@@ -1,13 +1,11 @@
 as yet unclassified
-createLedAt: position
+createLedAt: aPosition
 	|led|
 	
 	led := RectangleMorph new.
 	self addMorph: led.
-	led 
+	^ led 
 		width: 5;
 		height: 12;
-		borderColor: Color gray;
-		color: Color gray;
-		position: position.
+		position: aPosition.
 	

@@ -2,6 +2,11 @@
 	"class" : {
 		"descriptionForPartsBin" : "ia 5/24/2017 11:11" },
 	"instance" : {
-		"createLedAt:" : "LS 5/30/2017 10:39",
-		"initializeLEDs" : "LS 5/30/2017 10:44",
-		"initializeToStandAlone" : "LS 5/30/2017 10:41" } }
+		"changeLedColorTo:at:" : "LS 5/30/2017 11:50",
+		"createLedAt:" : "LS 5/30/2017 11:50",
+		"initializeLEDs" : "LS 5/30/2017 11:51",
+		"initializeToStandAlone" : "LS 5/30/2017 11:42",
+		"leds" : "LS 5/30/2017 11:33",
+		"leds:" : "LS 5/30/2017 11:33",
+		"turnOffLedAt:" : "LS 5/30/2017 11:51",
+		"turnOnLedAt:" : "LS 5/30/2017 11:51" } }

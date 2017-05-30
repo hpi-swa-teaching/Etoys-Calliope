@@ -2,12 +2,14 @@ as yet unclassified
 initializeLEDs
 	|startPosition offsetX offsetY|
 	
-	leds := Matrix new: 5.
-	startPosition := 252@123.
+	self leds: (Matrix new: 5).
+	startPosition := 195@123.
 	offsetX := 22@0.
 	offsetY := 0@21.
-	leds indicesDo: [:row :column|
+	self leds indicesDo: [:row :column|
 		|led|
+		
 		led := self createLedAt: startPosition + (offsetX * (row - 1)) + (offsetY * (column - 1)).
-		leds at: row at: column put: led.
+		self leds at: row at: column put: led.
+		self turnOffLedAt: row@column.
 		].
