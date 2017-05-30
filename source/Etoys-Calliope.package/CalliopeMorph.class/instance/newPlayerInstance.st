@@ -1,0 +1,4 @@
+accessing
+newPlayerInstance
+
+	^ CalliopePlayer newUserInstance.

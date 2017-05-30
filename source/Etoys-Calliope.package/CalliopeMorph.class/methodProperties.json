@@ -4,9 +4,11 @@
 	"instance" : {
 		"changeLedColorTo:at:" : "LS 5/30/2017 11:50",
 		"createLedAt:" : "LS 5/30/2017 11:50",
+		"initialize" : "jono 5/30/2017 15:43",
 		"initializeLEDs" : "LS 5/30/2017 11:51",
 		"initializeToStandAlone" : "LS 5/30/2017 11:42",
 		"leds" : "LS 5/30/2017 11:33",
 		"leds:" : "LS 5/30/2017 11:33",
+		"newPlayerInstance" : "jono 5/30/2017 15:42",
 		"turnOffLedAt:" : "LS 5/30/2017 11:51",
 		"turnOnLedAt:" : "LS 5/30/2017 11:51" } }
