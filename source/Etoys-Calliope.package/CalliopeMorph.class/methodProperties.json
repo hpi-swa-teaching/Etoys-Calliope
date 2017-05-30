@@ -1,9 +1,11 @@
 {
 	"class" : {
+		"additionsToViewerCategoryGrundlagen" : "jono 5/30/2017 16:00",
 		"descriptionForPartsBin" : "ia 5/24/2017 11:11" },
 	"instance" : {
 		"changeLedColorTo:at:" : "LS 5/30/2017 11:50",
 		"createLedAt:" : "LS 5/30/2017 11:50",
+		"handlesMouseDown:" : "jono 5/30/2017 16:14",
 		"initialize" : "jono 5/30/2017 15:43",
 		"initializeLEDs" : "LS 5/30/2017 11:51",
 		"initializeToStandAlone" : "LS 5/30/2017 11:42",
