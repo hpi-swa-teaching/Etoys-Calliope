@@ -1,4 +1,4 @@
-LED
+Led
 changeLedColorTo: aColor at: anIndex
 	| led |
 

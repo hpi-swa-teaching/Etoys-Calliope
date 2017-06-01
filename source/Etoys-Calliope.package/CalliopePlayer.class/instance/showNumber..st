@@ -1,7 +1,12 @@
 as yet unclassified
 showNumber: aNumber
 
-		aNumber = 1 ifTrue: [self costume showLEDs: #(	0 0 1 0 0
+		self costume showLeds: #(	0 1 0 1 0
+												1 1 1 1 1 
+												1 1 1 1 1 
+												0 1 1 1 0 
+												0 0 1 0 0).
+		aNumber = 1 ifTrue: [self costume showLeds: #(	0 0 1 0 0
 																				0 1 1 0 0 
 																				0 0 1 0 0 
 																				0 0 1 0 0 
