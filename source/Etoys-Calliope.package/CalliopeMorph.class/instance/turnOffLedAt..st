@@ -1,4 +1,4 @@
-as yet unclassified
-turnOffLedAt: aPosition
+LED
+turnOffLedAt: anIndex
 
-	self changeLedColorTo: Color gray at: aPosition.
+	self changeLedColorTo: Color gray at: anIndex.

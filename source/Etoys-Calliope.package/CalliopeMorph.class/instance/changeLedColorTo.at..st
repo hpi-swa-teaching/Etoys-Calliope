@@ -1,8 +1,8 @@
-as yet unclassified
-changeLedColorTo: aColor at: aPosition
+LED
+changeLedColorTo: aColor at: anIndex
 	| led |
 
-	led := self leds at: aPosition x at: aPosition y.
+	led := self leds at: anIndex.
 	led 
 		borderColor: aColor;
 		color: aColor.

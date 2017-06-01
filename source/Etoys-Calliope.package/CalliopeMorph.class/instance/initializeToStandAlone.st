@@ -1,4 +1,4 @@
-as yet unclassified
+initialization
 initializeToStandAlone
 	super initializeToStandAlone.
 	self initializeLEDs.

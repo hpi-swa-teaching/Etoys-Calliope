@@ -1,4 +1,4 @@
-as yet unclassified
-turnOnLedAt: aPosition
+LED
+turnOnLedAt: anIndex
 
-	self changeLedColorTo: Color red at: aPosition.
+	self changeLedColorTo: Color red at: anIndex.

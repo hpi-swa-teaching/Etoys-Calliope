@@ -1,3 +1,3 @@
 accessing
-leds: anObject
-	leds := anObject
+leds: anArray
+	leds := anArray
