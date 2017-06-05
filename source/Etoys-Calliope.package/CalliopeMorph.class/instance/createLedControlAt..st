@@ -1,5 +1,5 @@
 Led
-createLedMorphAt: aPosition
+createLedControlAt: aPosition
 	|led|
 	
 	led := RectangleMorph new.

@@ -11,10 +11,10 @@
 	"instance" : {
 		"additionsToViewerCategories" : "ia 5/30/2017 12:10",
 		"changeLedColorTo:at:" : "jono 6/1/2017 01:38",
-		"createLedMorphAt:" : "jono 6/1/2017 02:26",
+		"createLedControlAt:" : "LS 6/5/2017 18:50",
 		"handlesMouseDown:" : "jono 5/30/2017 16:14",
 		"initialize" : "jono 5/30/2017 15:43",
-		"initializeLEDs" : "jono 6/1/2017 02:27",
+		"initializeLEDs" : "LS 6/5/2017 18:50",
 		"initializeToStandAlone" : "ia 5/31/2017 16:48",
 		"leds" : "LS 5/30/2017 11:33",
 		"leds:" : "jono 6/1/2017 01:39",
