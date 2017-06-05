@@ -1,4 +1,8 @@
 as yet unclassified
 value
-
-	^ leds collect: [:led | led turnedOn ifTrue: [1] ifFalse: [0]].
+	|array|
+	
+	self halt.
+	array := leds collect: [:led | led turnedOn ifTrue: [1] ifFalse: [0]] asArray.
+	self halt.
+	^ array.

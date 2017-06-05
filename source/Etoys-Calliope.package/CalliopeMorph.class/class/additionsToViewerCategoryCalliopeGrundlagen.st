@@ -6,6 +6,7 @@ additionsToViewerCategoryCalliopeGrundlagen
 	^#(
 		Grundlagen 
 		(
-			(command showNumber: 'Show a specific number on the LED grid' Number)	
+			(command showNumber: 'Show a specific number on the LED grid' Number)
+			(command showArrangement: 'Show a specific arrangement on the LED grid' LEDArrangement)	
 		)
 	)
