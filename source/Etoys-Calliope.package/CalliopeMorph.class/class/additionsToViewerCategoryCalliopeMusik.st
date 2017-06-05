@@ -1,10 +1,10 @@
 Viewer
-additionsToViewerCategoryCalliopeEingabe
+additionsToViewerCategoryCalliopeMusik
 	
 	"Answer viewer additions for the 'Grundlagen' category"
 
 	^#(
-		Eingabe
-		(
+		Mathematik 
+		(	
 		)
 	)
