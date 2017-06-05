@@ -1,10 +1,10 @@
 Viewer
-additionsToViewerCategoryCalliopeEingabe
+additionsToViewerCategoryCalliopeLED
 	
 	"Answer viewer additions for the 'Grundlagen' category"
 
 	^#(
-		Eingabe
-		(
+		LED 
+		(	
 		)
 	)
