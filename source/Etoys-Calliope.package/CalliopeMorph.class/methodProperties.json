@@ -9,6 +9,7 @@
 		"allAdditionsToViewerCategories" : "jono 6/1/2017 00:41",
 		"descriptionForPartsBin" : "ia 5/24/2017 11:50" },
 	"instance" : {
+		"additionsToViewerCategories" : "ia 5/30/2017 12:10",
 		"changeLedColorTo:at:" : "jono 6/1/2017 01:38",
 		"createLedMorphAt:" : "jono 6/1/2017 02:26",
 		"handlesMouseDown:" : "jono 5/30/2017 16:14",
