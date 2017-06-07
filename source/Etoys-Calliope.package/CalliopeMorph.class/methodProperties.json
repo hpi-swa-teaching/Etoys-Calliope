@@ -5,7 +5,7 @@
 		"LEDStartPoint" : "ia 5/31/2017 15:38",
 		"additionsToViewerCategoryCalliopeEingabe" : "ia 6/5/2017 18:31",
 		"additionsToViewerCategoryCalliopeFunk" : "ia 6/5/2017 18:34",
-		"additionsToViewerCategoryCalliopeGrundlagen" : "LS 6/5/2017 19:04",
+		"additionsToViewerCategoryCalliopeGrundlagen" : "ia 6/7/2017 15:51",
 		"additionsToViewerCategoryCalliopeLED" : "ia 6/5/2017 18:32",
 		"additionsToViewerCategoryCalliopeLogik" : "ia 6/5/2017 18:32",
 		"additionsToViewerCategoryCalliopeMusik" : "ia 6/5/2017 18:34",
@@ -13,6 +13,7 @@
 		"additionsToViewerCategoryCalliopeVariablen" : "ia 6/5/2017 18:34",
 		"descriptionForPartsBin" : "ia 5/24/2017 11:50" },
 	"instance" : {
+		"changeLedColorTo:at:" : "jono 6/1/2017 01:38",
 		"changeLedColorTo:at:at:" : "jono 6/7/2017 11:12",
 		"createLedControlAt:" : "LS 6/5/2017 18:50",
 		"handlesMouseDown:" : "jono 5/30/2017 16:14",
@@ -23,5 +24,7 @@
 		"leds:" : "jono 6/1/2017 01:39",
 		"newPlayerInstance" : "jono 5/30/2017 15:42",
 		"showLeds:" : "jono 6/7/2017 11:39",
+		"turnOffLedAt:" : "jono 6/1/2017 01:39",
 		"turnOffLedAt:at:" : "jono 6/7/2017 11:14",
+		"turnOnLedAt:" : "jono 6/1/2017 01:40",
 		"turnOnLedAt:at:" : "jono 6/7/2017 11:17" } }
