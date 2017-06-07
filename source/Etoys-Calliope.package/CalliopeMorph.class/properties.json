@@ -7,7 +7,7 @@
 	"commentStamp" : "jono 5/23/2017 16:14",
 	"instvars" : [
 		"leds",
-		"ledContent" ],
+		"rgbLed" ],
 	"name" : "CalliopeMorph",
 	"pools" : [
 		 ],

@@ -1,4 +1,4 @@
 as yet unclassified
 options
 	
-	^{#(umbrella giraffe duck heart)} asArray 
+	^#('umbrella' 'giraffe' 'duck' 'heart'). 
