@@ -13,15 +13,15 @@
 		"additionsToViewerCategoryCalliopeVariablen" : "ia 6/5/2017 18:34",
 		"descriptionForPartsBin" : "ia 5/24/2017 11:50" },
 	"instance" : {
-		"changeLedColorTo:at:" : "jono 6/1/2017 01:38",
+		"changeLedColorTo:at:at:" : "jono 6/7/2017 11:12",
 		"createLedControlAt:" : "LS 6/5/2017 18:50",
 		"handlesMouseDown:" : "jono 5/30/2017 16:14",
 		"initialize" : "jono 5/30/2017 15:43",
-		"initializeLEDs" : "LS 6/5/2017 18:50",
+		"initializeLEDs" : "jono 6/7/2017 11:52",
 		"initializeToStandAlone" : "ia 5/31/2017 16:48",
 		"leds" : "LS 5/30/2017 11:33",
 		"leds:" : "jono 6/1/2017 01:39",
 		"newPlayerInstance" : "jono 5/30/2017 15:42",
-		"showLeds:" : "jono 6/1/2017 02:27",
-		"turnOffLedAt:" : "jono 6/1/2017 01:39",
-		"turnOnLedAt:" : "jono 6/1/2017 01:40" } }
+		"showLeds:" : "jono 6/7/2017 11:39",
+		"turnOffLedAt:at:" : "jono 6/7/2017 11:14",
+		"turnOnLedAt:at:" : "jono 6/7/2017 11:17" } }
