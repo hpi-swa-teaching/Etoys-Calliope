@@ -7,4 +7,4 @@ initialize
 		width: 140;
 		minHeight: 140;
 		minWidth: 140;
-		initializeLEDs.
+		createLEDs.

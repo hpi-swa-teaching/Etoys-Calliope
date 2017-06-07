@@ -1,5 +1,5 @@
 as yet unclassified
-createLedControlAt: aPosition
+createLEDAt: aPosition
 	|led|
 	
 	led := CalliopeLEDControl new.

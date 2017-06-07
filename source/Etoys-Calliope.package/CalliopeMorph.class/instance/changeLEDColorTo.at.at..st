@@ -1,5 +1,5 @@
 Led
-changeLedColorTo: aColor at: row at: column
+changeLEDColorTo: aColor at: row at: column
 	| led |
 
 	led := self leds at: row at: column.

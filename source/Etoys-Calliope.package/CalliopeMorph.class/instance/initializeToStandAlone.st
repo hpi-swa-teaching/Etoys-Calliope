@@ -1,5 +1,5 @@
 initialization
 initializeToStandAlone
 	super initializeToStandAlone.
-	self initializeLEDs.
+	self createLEDs.
 	self image: (Form fromFileNamed: 'mini_board.png').
