@@ -1,10 +1,9 @@
 Viewer
-additionsToViewerCategoryCalliopeLED
-	
+additionsToViewerCategoryCalliopeFunk
 	"Answer viewer additions for the 'Grundlagen' category"
 
 	^#(
-		LED 
+		Funk 
 		(	
 		)
 	)
