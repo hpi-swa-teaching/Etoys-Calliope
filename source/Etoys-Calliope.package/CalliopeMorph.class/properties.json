@@ -1,0 +1,15 @@
+{
+	"category" : "Etoys-Calliope",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jono 5/23/2017 16:14",
+	"instvars" : [
+		"leds",
+		"rgbLed" ],
+	"name" : "CalliopeMorph",
+	"pools" : [
+		 ],
+	"super" : "ImageMorph",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "Etoys-Calliope",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "LEDArray",
+	"pools" : [
+		 ],
+	"super" : "Array",
+	"type" : "variable" }
