@@ -1,6 +1,9 @@
 {
 	"class" : {
-		 },
+		"ledArrangements" : "ia 6/22/2017 17:09",
+		"ledArrangements:" : "ia 6/22/2017 16:45",
+		"populateDictionary" : "ia 6/22/2017 16:50",
+		"readArrangementsFromFile" : "ia 6/22/2017 17:10" },
 	"instance" : {
 		"getLEDColor" : "LS 6/22/2017 17:02",
 		"ledArrangement" : "LS 6/22/2017 17:02",
@@ -15,7 +18,7 @@
 		"setLEDColor:" : "LS 6/22/2017 17:03",
 		"show:" : "LS 6/22/2017 17:24",
 		"showArrangement:" : "LS 6/22/2017 17:23",
-		"showIcon:" : "LS 6/22/2017 17:03",
+		"showIcon:" : "ia 6/22/2017 16:55",
 		"showNumber:" : "LS 6/22/2017 17:03",
 		"showString:" : "LS 6/22/2017 17:03",
 		"unknownCharacterArrangement" : "LS 6/22/2017 17:04" } }
