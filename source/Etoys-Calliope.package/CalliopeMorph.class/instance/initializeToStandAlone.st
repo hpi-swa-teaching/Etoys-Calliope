@@ -1,4 +1,4 @@
-Led
+initialization
 initializeToStandAlone
 	super initializeToStandAlone.
 	self createLEDMatrix.

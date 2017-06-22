@@ -1,4 +1,4 @@
-Led
+initialization
 newPlayerInstance
 
 	^ CalliopePlayer newUserInstance.

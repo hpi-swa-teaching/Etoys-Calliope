@@ -1,10 +1,9 @@
 Viewer
-additionsToViewerCategoryCalliopeEingabe
-	
+additionsToViewerCategoryCalliopeEingaben
 	"Answer viewer additions for the 'Grundlagen' category"
 
 	^#(
-		Eingabe
-		(
+		Eingaben
+		(	
 		)
 	)
