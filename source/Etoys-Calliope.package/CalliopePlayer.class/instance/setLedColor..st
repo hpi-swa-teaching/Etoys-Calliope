@@ -1,4 +1,4 @@
 as yet unclassified
-setLEDColor:  aColor
+setLedColor:  aColor
 
 	self costume rgbLed color: aColor

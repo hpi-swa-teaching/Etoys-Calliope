@@ -4,7 +4,7 @@ parseStringToArrangement: aString
 	
 	arrangements := Array new.
 	aString do: [:aCharacter | 
-			arrangement := self ledArrangements 
+			arrangement := self class ledArrangements 
 				at: aCharacter asString
 				ifAbsent: [self unknownCharacterArrangement].
 			arrangements := arrangements, arrangement
