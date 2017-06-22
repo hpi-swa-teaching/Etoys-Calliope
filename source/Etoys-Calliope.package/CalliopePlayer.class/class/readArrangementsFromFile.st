@@ -18,3 +18,4 @@ readArrangementsFromFile
 			arrangement := arrangement collect: [:s | s asNumber.].
 			ledArrangements at: arrangementName put: arrangement.
 			].
+

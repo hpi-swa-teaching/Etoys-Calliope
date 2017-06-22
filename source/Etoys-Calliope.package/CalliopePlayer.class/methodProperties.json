@@ -1,11 +1,10 @@
 {
 	"class" : {
-		 },
+		"ledArrangements" : "ia 6/22/2017 17:09",
+		"ledArrangements:" : "ia 6/22/2017 16:45",
+		"populateDictionary" : "ia 6/22/2017 16:50",
+		"readArrangementsFromFile" : "ia 6/22/2017 17:10" },
 	"instance" : {
-		"ledArrangements" : "LS 6/7/2017 18:05",
-		"ledArrangements:" : "LS 6/7/2017 17:34",
-		"populateDictionary" : "LS 6/7/2017 22:12",
-		"readArrangementsFromFile" : "LS 6/7/2017 22:13",
 		"showArrangement:" : "LS 6/7/2017 17:06",
-		"showIcon:" : "LS 6/7/2017 21:53",
+		"showIcon:" : "ia 6/22/2017 16:55",
 		"showNumber:" : "LS 6/7/2017 17:06" } }

@@ -1,7 +1,7 @@
-accessing
+as yet unclassified
 ledArrangements
 
-	ledArrangements isNil 
+	ledArrangements isNil
 		ifTrue: [
 			ledArrangements := Dictionary new.
 			self populateDictionary.
