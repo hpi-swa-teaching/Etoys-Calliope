@@ -1,3 +1,3 @@
-accessing
+Led
 rgbLed
 	^ rgbLed

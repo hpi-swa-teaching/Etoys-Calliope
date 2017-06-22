@@ -1,0 +1,16 @@
+{
+	"category" : "Etoys-Calliope",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"leds",
+		"ledArrangement",
+		"ledOffset" ],
+	"name" : "CalliopeLEDMatrix",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

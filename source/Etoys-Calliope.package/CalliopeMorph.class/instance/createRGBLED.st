@@ -1,4 +1,4 @@
-accessing
+Led
 createRGBLED
 
 	self rgbLed: CircleMorph new.

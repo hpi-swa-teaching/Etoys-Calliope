@@ -2,6 +2,15 @@
 	"class" : {
 		 },
 	"instance" : {
-		"initialize" : "LS 6/7/2017 17:56",
-		"options" : "LS 6/7/2017 17:56",
-		"resultType" : "LS 6/7/2017 17:54" } }
+		"currentIcon" : "ia 6/22/2017 16:03",
+		"currentIcon:" : "ia 6/22/2017 16:03",
+		"initialize" : "ia 6/22/2017 16:03",
+		"options" : "ia 6/22/2017 16:03",
+		"parseNodeWith:" : "ia 6/22/2017 16:03",
+		"resultType" : "ia 6/22/2017 16:05",
+		"setLiteral:" : "ia 6/22/2017 16:04",
+		"showOptions" : "ia 6/22/2017 16:04",
+		"storeCodeOn:indent:" : "ia 6/22/2017 16:04",
+		"value" : "ia 6/22/2017 16:04",
+		"value:" : "ia 6/22/2017 16:04",
+		"wantsKeyboardFocusFor:" : "ia 6/22/2017 16:04" } }

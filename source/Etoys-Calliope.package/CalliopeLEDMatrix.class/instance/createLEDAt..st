@@ -1,4 +1,4 @@
-Led
+as yet unclassified
 createLEDAt: aPosition
 	|led|
 	

@@ -1,4 +1,4 @@
-as yet unclassified
+Led
 newPlayerInstance
 
 	^ CalliopePlayer newUserInstance.

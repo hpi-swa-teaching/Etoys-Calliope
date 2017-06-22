@@ -1,5 +1,5 @@
 as yet unclassified
 showIcon: anIcon
 
-	self costume showLEDArrangement: (self ledArrangements at: anIcon).
+	self costume show: (self ledArrangements at: anIcon).
 																			

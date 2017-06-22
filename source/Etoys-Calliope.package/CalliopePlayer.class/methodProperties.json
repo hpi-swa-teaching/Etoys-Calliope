@@ -2,10 +2,20 @@
 	"class" : {
 		 },
 	"instance" : {
-		"ledArrangements" : "LS 6/7/2017 18:05",
-		"ledArrangements:" : "LS 6/7/2017 17:34",
-		"populateDictionary" : "LS 6/7/2017 22:12",
-		"readArrangementsFromFile" : "LS 6/7/2017 22:13",
-		"showArrangement:" : "LS 6/7/2017 17:06",
-		"showIcon:" : "LS 6/7/2017 21:53",
-		"showNumber:" : "LS 6/7/2017 17:06" } }
+		"getLEDColor" : "LS 6/22/2017 17:02",
+		"ledArrangement" : "LS 6/22/2017 17:02",
+		"ledArrangement:" : "LS 6/22/2017 17:02",
+		"ledArrangements" : "LS 6/22/2017 17:11",
+		"ledArrangements:" : "LS 6/22/2017 17:02",
+		"ledColor" : "LS 6/22/2017 17:03",
+		"ledColor:" : "LS 6/22/2017 17:03",
+		"parseStringToArrangement:" : "LS 6/22/2017 17:03",
+		"populateDictionary" : "LS 6/22/2017 17:03",
+		"readArrangementsFromFile" : "LS 6/22/2017 17:03",
+		"setLEDColor:" : "LS 6/22/2017 17:03",
+		"show:" : "LS 6/22/2017 17:24",
+		"showArrangement:" : "LS 6/22/2017 17:23",
+		"showIcon:" : "LS 6/22/2017 17:03",
+		"showNumber:" : "LS 6/22/2017 17:03",
+		"showString:" : "LS 6/22/2017 17:03",
+		"unknownCharacterArrangement" : "LS 6/22/2017 17:04" } }
