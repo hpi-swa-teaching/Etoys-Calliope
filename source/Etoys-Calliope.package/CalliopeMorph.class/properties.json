@@ -10,7 +10,9 @@
 		"rgbLed",
 		"ledArrangement",
 		"ledMatrix",
-		"ledOffset" ],
+		"ledOffset",
+		"buttonA",
+		"buttonB" ],
 	"name" : "CalliopeMorph",
 	"pools" : [
 		 ],
