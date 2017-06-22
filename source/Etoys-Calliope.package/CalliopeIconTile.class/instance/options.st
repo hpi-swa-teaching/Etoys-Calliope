@@ -1,4 +1,6 @@
 as yet unclassified
 options
+	|options|
 	
-	^#('umbrella' 'giraffe' 'duck' 'heart'). 
+	options := #('umbrella' 'giraffe' 'duck' 'heart').
+	^{#('umbrella' 'giraffe' 'duck' 'heart'). #('umbrella' 'giraffe' 'duck' 'heart')}
