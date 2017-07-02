@@ -7,7 +7,7 @@
 	"commentStamp" : "",
 	"instvars" : [
 		 ],
-	"name" : "IconType",
+	"name" : "CalliopeIconType",
 	"pools" : [
 		 ],
 	"super" : "DataType",
