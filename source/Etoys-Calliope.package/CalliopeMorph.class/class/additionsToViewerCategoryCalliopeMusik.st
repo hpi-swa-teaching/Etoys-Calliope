@@ -4,7 +4,8 @@ additionsToViewerCategoryCalliopeMusik
 	"Answer viewer additions for the 'Grundlagen' category"
 
 	^#(
-		Mathematik 
-		(	
+		#Musik(
+		#(#command #play: 'Play a chosen tune.' #CalliopeSound
 		)
 	)
+)
