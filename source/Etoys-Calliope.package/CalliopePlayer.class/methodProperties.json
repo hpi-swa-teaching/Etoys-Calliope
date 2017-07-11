@@ -3,7 +3,8 @@
 		"ledArrangements" : "ia 6/22/2017 17:09",
 		"ledArrangements:" : "ia 6/22/2017 16:45",
 		"populateDictionary" : "ia 6/22/2017 16:50",
-		"readArrangementsFromFile" : "ia 6/22/2017 17:10" },
+		"readArrangementsFromFile" : "ia 6/22/2017 17:10",
+		"unknownCharacterArrangement" : "LS 7/4/2017 12:09" },
 	"instance" : {
 		"clearScreen" : "jono 6/27/2017 16:04",
 		"getLEDColor" : "LS 6/22/2017 17:02",
@@ -11,8 +12,8 @@
 		"ledArrangement:" : "LS 6/22/2017 17:02",
 		"ledColor" : "LS 6/22/2017 17:03",
 		"ledColor:" : "LS 6/22/2017 17:03",
-		"parseStringToArrangement:" : "LS 6/22/2017 17:59",
-		"play:" : "jono 7/10/2017 14:08",
+		"parseStringToArrangement:" : "LS 7/4/2017 12:10",
+		"playNote:" : "jono 7/4/2017 21:33",
 		"populateDictionary" : "LS 6/22/2017 17:03",
 		"readArrangementsFromFile" : "LS 6/22/2017 17:03",
 		"setLedColor:" : "LS 6/22/2017 19:17",
@@ -21,5 +22,4 @@
 		"showIcon:" : "ia 6/22/2017 17:55",
 		"showLEDs:" : "jono 6/30/2017 09:29",
 		"showNumber:" : "LS 6/22/2017 17:03",
-		"showString:" : "LS 6/22/2017 17:03",
-		"unknownCharacterArrangement" : "LS 6/22/2017 17:04" } }
+		"showString:" : "jono 7/3/2017 10:39" } }
