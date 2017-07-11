@@ -1,0 +1,14 @@
+{
+	"category" : "Etoys-Calliope",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "CalliopeEasingSinus",
+	"pools" : [
+		 ],
+	"super" : "AnimEasingCurve",
+	"type" : "normal" }
