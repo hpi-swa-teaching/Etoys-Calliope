@@ -6,8 +6,8 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"keyboard" ],
-	"name" : "CalliopeNotePickerTile",
+		 ],
+	"name" : "CalliopeSoundTile",
 	"pools" : [
 		 ],
 	"super" : "TileMorph",

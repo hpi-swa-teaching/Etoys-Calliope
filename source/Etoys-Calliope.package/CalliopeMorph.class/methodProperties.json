@@ -8,12 +8,11 @@
 		"additionsToViewerCategoryCalliopeGrundlagen" : "jono 7/2/2017 13:03",
 		"additionsToViewerCategoryCalliopeLED" : "ia 6/5/2017 18:32",
 		"additionsToViewerCategoryCalliopeLogik" : "ia 6/5/2017 18:32",
-		"additionsToViewerCategoryCalliopeMusik" : "jono 7/4/2017 21:33",
+		"additionsToViewerCategoryCalliopeMusik" : "ia 7/10/2017 13:02",
 		"additionsToViewerCategoryCalliopeSchleifen" : "ia 6/5/2017 18:33",
 		"additionsToViewerCategoryCalliopeVariablen" : "ia 6/5/2017 18:34",
 		"descriptionForPartsBin" : "ia 5/24/2017 11:50" },
 	"instance" : {
-		"addShakeButton" : "LS 7/11/2017 13:32",
 		"buttonA" : "jono 6/22/2017 19:45",
 		"buttonA:" : "jono 6/22/2017 19:45",
 		"buttonB" : "jono 6/22/2017 19:45",
@@ -26,8 +25,7 @@
 		"initialize" : "LS 6/22/2017 16:48",
 		"initializeButtons" : "jono 6/22/2017 20:28",
 		"initializeLEDArrangement" : "LS 6/22/2017 16:48",
-		"initializeShaking" : "LS 7/6/2017 14:14",
-		"initializeToStandAlone" : "LS 7/6/2017 11:57",
+		"initializeToStandAlone" : "jono 6/22/2017 19:34",
 		"ledArrangement" : "LS 6/22/2017 16:49",
 		"ledArrangement:" : "LS 6/22/2017 16:49",
 		"ledMatrix" : "LS 6/22/2017 16:49",
@@ -36,6 +34,4 @@
 		"ledOffset:" : "LS 6/22/2017 16:50",
 		"newPlayerInstance" : "LS 6/22/2017 16:51",
 		"rgbLed" : "LS 6/22/2017 16:51",
-		"rgbLed:" : "LS 6/22/2017 16:51",
-		"shake" : "LS 7/6/2017 13:46",
-		"startShakeAnimation:" : "LS 7/6/2017 13:44" } }
+		"rgbLed:" : "LS 6/22/2017 16:51" } }
