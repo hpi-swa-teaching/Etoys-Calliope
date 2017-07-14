@@ -1,4 +1,3 @@
 as yet unclassified
-resultType 
-
-	^ #CalliopeSound.
+resultType
+	^ #CalliopeSound

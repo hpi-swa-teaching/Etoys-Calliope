@@ -2,7 +2,8 @@
 	"class" : {
 		 },
 	"instance" : {
-		"initialize" : "jono 7/10/2017 14:08",
-		"options" : "ia 7/10/2017 12:58",
-		"resultType" : "ia 7/10/2017 13:00",
-		"showOptions" : "ia 7/10/2017 13:00" } }
+		"initialize" : "ia 7/14/2017 14:07",
+		"options" : "ia 7/14/2017 14:06",
+		"resultType" : "ia 7/14/2017 14:07",
+		"showOptions" : "ia 7/14/2017 14:06",
+		"wantsKeyboardFocus" : "ia 7/14/2017 14:17" } }
