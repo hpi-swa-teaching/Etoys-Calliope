@@ -2,5 +2,5 @@ as yet unclassified
 options
 	|options|
 	
-	options := CalliopePlayer ledArrangements keys.
+	options := CalliopePlayer iconArrangements keys.
 	^{options. options}
