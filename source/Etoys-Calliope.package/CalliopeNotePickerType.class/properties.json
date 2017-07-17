@@ -1,0 +1,14 @@
+{
+	"category" : "Etoys-Calliope",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "CalliopeNotePickerType",
+	"pools" : [
+		 ],
+	"super" : "DataType",
+	"type" : "normal" }

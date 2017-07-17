@@ -4,7 +4,7 @@
 		"characterArrangements:" : "jono 7/17/2017 12:02",
 		"iconArrangements" : "jono 7/14/2017 19:04",
 		"iconArrangements:" : "jono 7/14/2017 19:05",
-		"populateDictionaries" : "jono 7/17/2017 12:05",
+		"populateDictionaries" : "ia 7/17/2017 13:54",
 		"readArrangementsFromFileNamed:into:" : "jono 7/16/2017 22:04",
 		"unknownCharacterArrangement" : "LS 7/4/2017 12:09" },
 	"instance" : {
@@ -16,6 +16,7 @@
 		"ledColor:" : "LS 6/22/2017 17:03",
 		"parseStringToArrangement:" : "jono 7/17/2017 12:05",
 		"play:" : "ia 7/14/2017 14:05",
+		"playNote:" : "jono 7/4/2017 21:33",
 		"setLedColor:" : "LS 6/22/2017 19:17",
 		"show:" : "jono 7/14/2017 17:58",
 		"showArrangement:" : "jono 7/14/2017 17:58",
