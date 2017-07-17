@@ -1,12 +1,15 @@
 {
 	"category" : "Etoys-Calliope",
 	"classinstvars" : [
-		"ledArrangements" ],
-	"classvars" : [
 		 ],
+	"classvars" : [
+		"CharacterArrangements",
+		"DigitArrangements",
+		"IconArrangements",
+		"LetterArrangements" ],
 	"commentStamp" : "",
 	"instvars" : [
-		"ledArrangements" ],
+		 ],
 	"name" : "CalliopePlayer",
 	"pools" : [
 		 ],

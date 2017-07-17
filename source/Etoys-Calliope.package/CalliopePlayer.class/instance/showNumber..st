@@ -1,5 +1,5 @@
 as yet unclassified
 showNumber: aNumber
 
-	self showString: aNumber asString.
+	self showString: aNumber asString
 		

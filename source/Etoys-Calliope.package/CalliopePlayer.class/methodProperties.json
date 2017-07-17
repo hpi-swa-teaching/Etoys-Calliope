@@ -1,9 +1,11 @@
 {
 	"class" : {
-		"ledArrangements" : "ia 6/22/2017 17:09",
-		"ledArrangements:" : "ia 6/22/2017 16:45",
-		"populateDictionary" : "ia 6/22/2017 16:50",
-		"readArrangementsFromFile" : "ia 6/22/2017 17:10",
+		"characterArrangements" : "jono 7/17/2017 12:03",
+		"characterArrangements:" : "jono 7/17/2017 12:02",
+		"iconArrangements" : "jono 7/14/2017 19:04",
+		"iconArrangements:" : "jono 7/14/2017 19:05",
+		"populateDictionaries" : "jono 7/17/2017 12:05",
+		"readArrangementsFromFileNamed:into:" : "jono 7/16/2017 22:04",
 		"unknownCharacterArrangement" : "LS 7/4/2017 12:09" },
 	"instance" : {
 		"clearScreen" : "jono 6/27/2017 16:04",
@@ -12,14 +14,13 @@
 		"ledArrangement:" : "LS 6/22/2017 17:02",
 		"ledColor" : "LS 6/22/2017 17:03",
 		"ledColor:" : "LS 6/22/2017 17:03",
-		"parseStringToArrangement:" : "LS 7/4/2017 12:10",
+		"parseStringToArrangement:" : "jono 7/17/2017 12:05",
 		"play:" : "ia 7/14/2017 14:05",
-		"populateDictionary" : "LS 6/22/2017 17:03",
-		"readArrangementsFromFile" : "LS 6/22/2017 17:03",
 		"setLedColor:" : "LS 6/22/2017 19:17",
-		"show:" : "LS 6/22/2017 17:24",
-		"showArrangement:" : "LS 6/22/2017 17:23",
-		"showIcon:" : "ia 6/22/2017 17:55",
-		"showLEDs:" : "jono 6/30/2017 09:29",
-		"showNumber:" : "LS 6/22/2017 17:03",
-		"showString:" : "jono 7/3/2017 10:39" } }
+		"show:" : "jono 7/14/2017 17:58",
+		"showArrangement:" : "jono 7/14/2017 17:58",
+		"showIcon:" : "jono 7/14/2017 19:08",
+		"showLEDs:" : "jono 7/14/2017 17:59",
+		"showNumber:" : "jono 7/17/2017 12:03",
+		"showString:" : "jono 7/14/2017 17:59",
+		"showTofu" : "jono 7/16/2017 21:47" } }
