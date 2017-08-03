@@ -1,3 +1,4 @@
-as yet unclassified
-parseNodeWith: t1 
-	^ t1 encodeLiteral: self value
+value-logic
+parseNodeWith: target
+
+	^ target encodeLiteral: self value

@@ -1,4 +1,4 @@
 as yet unclassified
 ledColor
 
-	^self costume rgbLed color
+	^ self costume rgbLed color

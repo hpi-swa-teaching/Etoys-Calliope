@@ -1,12 +1,5 @@
-as yet unclassified
+scrolling
 refreshScrolling
 
-	ledArrangement size == 25
-		ifTrue: [ 
-			self show: (self calculateFrameAt: self ledOffset).
-			self ledOffset: 0.
-			^ self ].
-	self show: (self calculateFrameAt: self ledOffset).
-	self frameAmount - self class EmptyEndColumns == self class DimensionX "ignore empty columns"
-		ifTrue: [self ledOffset: 0]
-		ifFalse: [self ledOffset: (self ledOffset + 1 rem: self frameAmount)]
+	self showRaw: (self calculateRawAt: self ledOffset).
+	self ledOffset: (self ledOffset + 1 rem: (self frameAmount))

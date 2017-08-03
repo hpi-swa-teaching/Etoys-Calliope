@@ -1,13 +1,15 @@
 as yet unclassified
 parseStringToArrangement: aString
-	| arrangements arrangement|
+	| arrangements arrangement |
 	
 	arrangements := Array new.
-	aString do: [:aCharacter | 
+	aString do: [:aCharacter |
 			arrangement := self class characterArrangements 
 				at: aCharacter asString
-				ifAbsent: self showTofu.
+				ifAbsent: self class unknownCharacterArrangement.
+				
 			arrangements := arrangements, arrangement
 		].
+	
 	^ arrangements
 	

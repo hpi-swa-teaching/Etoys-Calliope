@@ -8,7 +8,8 @@
 	"instvars" : [
 		"leds",
 		"ledArrangement",
-		"ledOffset" ],
+		"ledOffset",
+		"convertedArrangement" ],
 	"name" : "CalliopeLEDMatrix",
 	"pools" : [
 		 ],

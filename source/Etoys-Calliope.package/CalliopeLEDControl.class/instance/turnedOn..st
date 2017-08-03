@@ -1,3 +1,4 @@
 accessing
-turnedOn: anObject
-	turnedOn := anObject
+turnedOn: aBoolean
+
+	turnedOn := aBoolean

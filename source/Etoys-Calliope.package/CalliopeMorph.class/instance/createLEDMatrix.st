@@ -1,4 +1,4 @@
-Led
+initialization
 createLEDMatrix
 	
 	self ledMatrix: CalliopeLEDMatrix new.

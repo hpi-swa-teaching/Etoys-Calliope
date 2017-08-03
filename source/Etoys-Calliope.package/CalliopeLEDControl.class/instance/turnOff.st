@@ -3,4 +3,4 @@ turnOff
 
 	self 
 		turnedOn: false;
-		color: Color gray.
+		color: self class OffColor

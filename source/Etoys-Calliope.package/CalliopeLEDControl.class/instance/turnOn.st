@@ -3,4 +3,4 @@ turnOn
 
 	self 
 		turnedOn: true;
-		color: Color red.
+		color: self class OnColor

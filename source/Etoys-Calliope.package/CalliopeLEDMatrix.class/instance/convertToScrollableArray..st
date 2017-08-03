@@ -1,13 +1,13 @@
-as yet unclassified
+scrolling
 convertToScrollableArray: anArrangement 
-	| amount converted subsequence |
-	
-	amount := anArrangement size // self class PixelsPerFrame - 1.
+	| pages converted subsequence |
+
+	pages := anArrangement size // self class PixelsPerFrame.
 	converted := Array new.
-	0 to: amount do: [:i | 
-			subsequence := anArrangement copyFrom: i * self class PixelsPerFrame + 1 to: i * self class PixelsPerFrame + self class PixelsPerFrame.
+	1 to: pages do: [:i | 
+			subsequence := self extractPage: i From: anArrangement.
 			subsequence := subsequence asMatrix asColumnFirst asArray.
-			"converted := converted, #(0 0 0 0 0)." "append empty column for better readability"
-			converted := converted, subsequence
+			converted := converted, subsequence.
 		].
-	^ converted, (self emptyColumns: self class EmptyEndColumns)
+	
+	^ converted

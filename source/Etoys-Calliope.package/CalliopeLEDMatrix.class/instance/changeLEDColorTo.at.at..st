@@ -1,8 +1,6 @@
-as yet unclassified
+showing
 changeLEDColorTo: aColor at: row at: column
-	| led |
 
-	led := self leds at: row at: column.
-	led 
+	(self leds at: row at: column)
 		borderColor: aColor;
 		color: aColor.

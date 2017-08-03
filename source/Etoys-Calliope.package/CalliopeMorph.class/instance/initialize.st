@@ -1,4 +1,5 @@
-Led
-initialize 
+initialization
+initialize
+
 	super initialize.
 	self assuredPlayer.

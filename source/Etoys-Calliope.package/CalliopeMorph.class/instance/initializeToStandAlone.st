@@ -1,8 +1,11 @@
-Led
+initialization
 initializeToStandAlone
+
 	super initializeToStandAlone.
-	self createLEDMatrix.
-	self createRGBLED.
-	self initializeButtons.
-	self initializeShaking.
-	self image: (Form fromFileNamed: 'mini_board.png').
+	self
+		initializeLEDArrangement;
+		createLEDMatrix;
+		createRGBLED;
+		createButtons;
+		initializeShaking;
+		image: (Form fromFileNamed: 'mini_board.png')

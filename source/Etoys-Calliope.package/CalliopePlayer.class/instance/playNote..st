@@ -1,4 +1,4 @@
 as yet unclassified
-playNote: aCalliopeNotePicker
-	
-	self.
+playNote: aTune
+
+	self costume playNote: aTune

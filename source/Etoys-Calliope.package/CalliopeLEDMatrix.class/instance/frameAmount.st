@@ -1,4 +1,9 @@
-as yet unclassified
+scrolling
 frameAmount
 
-	^ ledArrangement size // self class DimensionY
+	self ledArrangement size == self class PixelsPerFrame
+		ifTrue: [^ 1]
+		ifFalse: [^ (self convertedArrangement size - self class PixelsPerFrame) // self class DimensionY]
+		
+
+	

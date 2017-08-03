@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 valueForProgress: aFloat
 	
 	^ (aFloat * 2 * Float pi) sin

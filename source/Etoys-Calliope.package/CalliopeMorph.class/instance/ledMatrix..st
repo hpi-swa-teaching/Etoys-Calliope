@@ -1,3 +1,4 @@
-Led
-ledMatrix: anObject
-	ledMatrix := anObject
+accessing
+ledMatrix: aMatrix
+
+	ledMatrix := aMatrix

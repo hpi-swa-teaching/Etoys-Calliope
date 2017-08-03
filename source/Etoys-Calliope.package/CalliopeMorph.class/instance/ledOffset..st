@@ -1,3 +1,4 @@
-Led
-ledOffset: anObject
-	ledOffset := anObject
+accessing
+ledOffset: aNumber
+
+	ledOffset := aNumber

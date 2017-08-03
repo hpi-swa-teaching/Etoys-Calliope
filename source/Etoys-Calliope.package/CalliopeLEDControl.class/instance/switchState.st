@@ -3,4 +3,4 @@ switchState
 
 	turnedOn 
 		ifTrue: [self turnOff] 
-		ifFalse: [self turnOn].
+		ifFalse: [self turnOn]

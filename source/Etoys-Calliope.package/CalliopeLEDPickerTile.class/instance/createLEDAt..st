@@ -1,9 +1,10 @@
-as yet unclassified
+initialization
 createLEDAt: aPosition
 	|led|
 	
 	led := CalliopeLEDControl new.
 	self matrixContainer addMorph: led.
+	
 	^ led 
 		width: 20;
 		height: 20;

@@ -1,9 +1,7 @@
-Led
+initialization
 createButton: aColor at: aPosition
-	| button |
-	button := CircleMorph new.
-	button 
+
+	^ (CircleMorph new) 
 		color: aColor;
 		extent: 20@20;
 		position: aPosition + self position.
-	^ button.

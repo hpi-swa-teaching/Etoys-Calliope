@@ -1,4 +1,4 @@
-as yet unclassified
-ledOffset: anObject
+accessing
+ledOffset: aNumber
 
-	ledOffset := anObject
+	ledOffset := aNumber

@@ -1,3 +1,4 @@
 accessing
-buttonA: anObject
-	buttonA := anObject
+buttonA: aMorph
+
+	buttonA := aMorph

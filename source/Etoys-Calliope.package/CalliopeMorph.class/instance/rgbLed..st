@@ -1,3 +1,4 @@
-Led
-rgbLed: anObject
-	rgbLed := anObject
+accessing
+rgbLed: aMorph
+
+	rgbLed := aMorph

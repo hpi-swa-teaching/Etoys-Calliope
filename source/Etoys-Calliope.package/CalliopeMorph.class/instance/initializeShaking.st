@@ -1,4 +1,4 @@
-as yet unclassified
+initialization
 initializeShaking
 
 	ScriptingSystem
@@ -6,4 +6,5 @@ initializeShaking
 		named: #CalliopeShaken
 		help: 'when Calliope is shaken '
 		targetMorphClass: CalliopeMorph.
-	self addShakeButton
+		
+	self createShakeButton

@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 leds: anArray
 
 	leds := anArray

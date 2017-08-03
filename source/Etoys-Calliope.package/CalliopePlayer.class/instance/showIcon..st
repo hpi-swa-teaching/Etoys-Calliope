@@ -1,3 +1,4 @@
 as yet unclassified
-showIcon: anIcon 
+showIcon: anIcon
+
 	self ledArrangement: (self class iconArrangements at: anIcon)

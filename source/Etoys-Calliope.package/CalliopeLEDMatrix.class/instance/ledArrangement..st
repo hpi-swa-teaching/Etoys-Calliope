@@ -1,5 +1,6 @@
-as yet unclassified
-ledArrangement: anObject
+accessing
+ledArrangement: anArrangement
 
 	self ledOffset: 0.
-	ledArrangement := anObject
+	self convertedArrangement: nil.
+	ledArrangement := anArrangement

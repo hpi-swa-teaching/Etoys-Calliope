@@ -1,8 +1,9 @@
-as yet unclassified
+value-logic
 value
-	| t1 |
-	t1 := leds
-				collect: [:t2 | t2 turnedOn
+	| result |
+	
+	result := leds collect: [:single | single turnedOn
 						ifTrue: [1]
-						ifFalse: [0]].
-	^ t1
+						ifFalse: [0]
+					].
+	^ result

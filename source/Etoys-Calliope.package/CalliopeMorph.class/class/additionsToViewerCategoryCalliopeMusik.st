@@ -5,6 +5,6 @@ additionsToViewerCategoryCalliopeMusik
 
 	^#(Musik 
 		#(	
-		#(#command #play: 'Play a specific sound' #CalliopeSound )
+		#(#command #playNote: 'Play a specific sound' #CalliopeSound )
 		)
 )

@@ -1,3 +1,4 @@
-as yet unclassified
+value-logic
 resultType
+
 	^ #LEDArrangement

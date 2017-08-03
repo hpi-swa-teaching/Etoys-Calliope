@@ -2,4 +2,4 @@ accessing
 initialize 
 
 	super initialize.
-	self turnOff.
+	self turnOff

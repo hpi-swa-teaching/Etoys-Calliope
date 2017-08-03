@@ -1,3 +1,4 @@
 accessing
-matrixContainer: anObject
-	matrixContainer := anObject
+matrixContainer: aMorph
+
+	matrixContainer := aMorph

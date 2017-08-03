@@ -1,4 +1,4 @@
-as yet unclassified
+initialization
 initialize 
 
 	super initialize.
@@ -7,4 +7,3 @@ initialize
 		createLEDs;
 		ledOffset: 0;
 		initializeLEDArrangement.
-		

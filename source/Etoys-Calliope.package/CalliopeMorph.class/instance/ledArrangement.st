@@ -1,4 +1,4 @@
-Led
+accessing
 ledArrangement
 
 	^ self ledMatrix ledArrangement

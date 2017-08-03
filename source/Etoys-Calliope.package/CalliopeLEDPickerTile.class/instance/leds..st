@@ -1,3 +1,4 @@
 accessing
-leds: anObject
-	leds := anObject
+leds: aMatrix
+
+	leds := aMatrix

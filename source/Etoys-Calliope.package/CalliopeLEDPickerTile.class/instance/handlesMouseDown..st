@@ -1,3 +1,4 @@
-accessing
-handlesMouseDown: t1 
+mouse handling
+handlesMouseDown: event 
+
 	^ true

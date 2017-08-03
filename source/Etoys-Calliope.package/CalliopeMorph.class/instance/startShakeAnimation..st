@@ -1,4 +1,4 @@
-as yet unclassified
+interacting
 startShakeAnimation: endBlock
 
 	AnimPropertyAnimation new duration: 100;
@@ -12,4 +12,3 @@ startShakeAnimation: endBlock
 		 finishBlock: endBlock;
 		 start: #deleteWhenFinished;
 		 register.
-	Transcript show: 'asda'
