@@ -6,5 +6,4 @@ initialize
 		color: Color transparent;
 		createLEDs;
 		ledOffset: 0;
-		initializeLEDArrangement;
-		ledArrangement: self getBlankLEDArrangement.
+		initializeLEDArrangement

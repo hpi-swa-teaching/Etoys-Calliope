@@ -4,8 +4,9 @@
 		"characterArrangements:" : "jono 7/17/2017 12:02",
 		"iconArrangements" : "jono 7/14/2017 19:04",
 		"iconArrangements:" : "jono 7/14/2017 19:05",
+		"nextArrangementFromFile:" : "LS 8/4/2017 20:40",
 		"populateDictionaries" : "ia 7/17/2017 13:54",
-		"readArrangementsFromFileNamed:into:" : "jono 7/16/2017 22:04",
+		"readArrangementsFromFileNamed:into:" : "LS 8/4/2017 20:40",
 		"unknownCharacterArrangement" : "jono 8/4/2017 15:35" },
 	"instance" : {
 		"clearScreen" : "LS 8/4/2017 00:19",

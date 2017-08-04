@@ -1,17 +1,11 @@
 dictionaries
 readArrangementsFromFileNamed: fileName into: aDictionary
-	| file arrangementName arrangement dimension arrangementLine |
+	| file arrangementName arrangement |
 
 	file := FileStream fileNamed: fileName.
 	[file atEnd]
-		whileFalse: [arrangementName := file nextLine.
-			arrangement := file nextLine splitBy: ' '.
-			dimension := arrangement size.
-			2
-				to: dimension
-				do: [:i | 
-					arrangementLine := file nextLine splitBy: ' '.
-					arrangement := arrangement , arrangementLine].
-			arrangement := arrangement
-						collect: [:s | s asNumber].
-				aDictionary at: arrangementName put: arrangement ].
+		whileFalse: [
+			arrangementName := file nextLine.
+			arrangement := self class nextArrangementFromFile: file.
+			aDictionary at: arrangementName put: arrangement 
+		]
