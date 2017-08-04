@@ -5,6 +5,6 @@ initializeShaking
 		addCustomEventFor: self
 		named: #CalliopeShaken
 		help: 'when Calliope is shaken '
-		targetMorphClass: CalliopeMorph.
+		targetMorphClass: self class.
 		
 	self createShakeButton

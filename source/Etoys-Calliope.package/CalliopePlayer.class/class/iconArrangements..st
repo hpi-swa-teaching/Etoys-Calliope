@@ -1,3 +1,3 @@
-as yet unclassified
+accessing
 iconArrangements: anObject
 	IconArrangements := anObject

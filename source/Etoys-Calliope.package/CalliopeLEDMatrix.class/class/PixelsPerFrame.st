@@ -1,4 +1,4 @@
-as yet unclassified
+constants
 PixelsPerFrame
 
 	^ self DimensionX * self DimensionY

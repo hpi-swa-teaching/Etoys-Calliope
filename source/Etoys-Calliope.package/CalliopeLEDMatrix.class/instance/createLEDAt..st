@@ -8,5 +8,6 @@ createLEDAt: aPosition
 	^ led 
 		width: 5;
 		height: 12;
-		position: aPosition.
+		position: aPosition;
+		yourself
 	

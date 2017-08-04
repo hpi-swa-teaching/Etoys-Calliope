@@ -1,10 +1,10 @@
 {
 	"class" : {
-		"LEDOffsetX" : "LS 6/5/2017 18:33",
-		"LEDOffsetY" : "LS 6/5/2017 18:33",
-		"LEDStartPoint" : "LS 6/5/2017 18:34" },
+		"LEDOffsetX" : "jono 8/4/2017 14:57",
+		"LEDOffsetY" : "jono 8/4/2017 14:57",
+		"LEDStartPoint" : "jono 8/4/2017 14:57" },
 	"instance" : {
-		"createLEDAt:" : "LS 8/3/2017 23:38",
+		"createLEDAt:" : "jono 8/4/2017 15:39",
 		"createLEDs" : "LS 8/3/2017 23:23",
 		"createMatrixContainer" : "LS 8/3/2017 23:27",
 		"handleMouseUp:" : "LS 8/3/2017 23:37",
@@ -15,7 +15,5 @@
 		"matrixContainer" : "LS 8/3/2017 23:30",
 		"matrixContainer:" : "LS 8/3/2017 23:35",
 		"mouseUp:" : "LS 8/3/2017 23:38",
-		"parseNodeWith:" : "LS 8/3/2017 23:36",
-		"resultType" : "LS 8/3/2017 23:36",
-		"storeCodeOn:indent:" : "LS 8/3/2017 23:36",
-		"value" : "LS 8/3/2017 23:37" } }
+		"parseNodeWith:" : "jono 8/4/2017 15:43",
+		"value" : "jono 8/4/2017 15:44" } }

@@ -1,4 +1,4 @@
-as yet unclassified
+slots commands
 playNote: aTune
 
 	self costume playNote: aTune

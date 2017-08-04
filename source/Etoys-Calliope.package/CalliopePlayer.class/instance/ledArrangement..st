@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 ledArrangement: anArrangement
 
 	self costume ledArrangement: anArrangement

@@ -1,4 +1,4 @@
-as yet unclassified
+parts bin
 descriptionForPartsBin
 	"Answer a description for use in a parts bin."
 

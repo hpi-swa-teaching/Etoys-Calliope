@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 ledColor
 
 	^ self costume rgbLed color

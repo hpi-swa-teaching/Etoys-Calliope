@@ -1,4 +1,4 @@
-as yet unclassified
+slots commands
 getLEDColor
 
 	^ self costume rgbLed color

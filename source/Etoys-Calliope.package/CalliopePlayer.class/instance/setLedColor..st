@@ -1,4 +1,4 @@
-as yet unclassified
+slots commands
 setLedColor:  aColor
 "This method is necessary to allow using ledColor as a slot in Etoys"
 

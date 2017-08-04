@@ -1,4 +1,4 @@
-as yet unclassified
+dictionaries
 readArrangementsFromFileNamed: fileName into: aDictionary
 	| file arrangementName arrangement dimension arrangementLine |
 

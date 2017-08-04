@@ -1,7 +1,7 @@
-Viewer
+viewer
 additionsToViewerCategoryCalliopeSchleifen
 	
-	"Answer viewer additions for the 'Grundlagen' category"
+	"Answer viewer additions for the 'Schleifen' category"
 
 	^#(
 		Schleifen

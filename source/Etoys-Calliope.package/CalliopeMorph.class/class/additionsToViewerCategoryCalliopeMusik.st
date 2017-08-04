@@ -1,7 +1,7 @@
-Viewer
+viewer
 additionsToViewerCategoryCalliopeMusik
 	
-	"Answer viewer additions for the 'Grundlagen' category"
+	"Answer viewer additions for the 'Musik' category"
 
 	^#(Musik 
 		#(	

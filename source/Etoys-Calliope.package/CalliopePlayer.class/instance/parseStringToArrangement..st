@@ -1,4 +1,4 @@
-as yet unclassified
+parsing
 parseStringToArrangement: aString
 	| arrangements arrangement |
 	

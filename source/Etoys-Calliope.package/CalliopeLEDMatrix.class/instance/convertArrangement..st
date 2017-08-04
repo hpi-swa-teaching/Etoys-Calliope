@@ -5,5 +5,4 @@ convertArrangement: anArrangement
 	converted := self convertToScrollableArray: anArrangement.
 	converted := self addTransitionEndToScrollable: converted.
 	
-	^ converted.
-
+	^ converted

@@ -1,4 +1,4 @@
-Viewer
+viewer
 additionsToViewerCategoryCalliopeLED
 	
 	"Answer viewer additions for the 'LED' category"

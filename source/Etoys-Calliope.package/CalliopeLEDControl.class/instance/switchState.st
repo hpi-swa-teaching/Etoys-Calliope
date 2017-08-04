@@ -1,6 +1,6 @@
-as yet unclassified
+state
 switchState
 
-	turnedOn 
+	self turnedOn 
 		ifTrue: [self turnOff] 
 		ifFalse: [self turnOn]

@@ -1,4 +1,4 @@
-as yet unclassified
-mouseUp: evt
+event handling
+mouseUp: anEvent
 
 	self switchState

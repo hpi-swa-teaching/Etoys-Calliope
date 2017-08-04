@@ -1,7 +1,7 @@
-Viewer
+viewer
 additionsToViewerCategoryCalliopeLogik
 	
-	"Answer viewer additions for the 'Grundlagen' category"
+	"Answer viewer additions for the 'Logik' category"
 
 	^#(
 		Logik 

@@ -4,9 +4,7 @@
 		 ],
 	"classvars" : [
 		"CharacterArrangements",
-		"DigitArrangements",
-		"IconArrangements",
-		"LetterArrangements" ],
+		"IconArrangements" ],
 	"commentStamp" : "",
 	"instvars" : [
 		 ],

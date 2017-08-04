@@ -1,7 +1,7 @@
-Viewer
+viewer
 additionsToViewerCategoryCalliopeVariablen
 	
-	"Answer viewer additions for the 'Grundlagen' category"
+	"Answer viewer additions for the 'Variablen' category"
 
 	^#(
 		Variablen 

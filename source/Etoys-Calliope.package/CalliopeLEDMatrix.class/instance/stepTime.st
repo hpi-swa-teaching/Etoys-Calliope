@@ -1,4 +1,4 @@
 stepping
 stepTime 
 
-	^ 300.
+	^ 300

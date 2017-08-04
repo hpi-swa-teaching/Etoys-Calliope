@@ -3,7 +3,6 @@ initializeToStandAlone
 
 	super initializeToStandAlone.
 	self
-		initializeLEDArrangement;
 		createLEDMatrix;
 		createRGBLED;
 		createButtons;
