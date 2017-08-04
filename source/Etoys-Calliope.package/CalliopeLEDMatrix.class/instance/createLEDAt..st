@@ -6,8 +6,8 @@ createLEDAt: aPosition
 	self addMorph: led.
 	
 	^ led 
-		width: 5;
-		height: 12;
+		width: self class LEDWidth;
+		height: self class LEDHeight;
 		position: aPosition;
 		yourself
 	

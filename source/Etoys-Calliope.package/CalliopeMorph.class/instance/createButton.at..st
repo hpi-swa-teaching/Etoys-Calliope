@@ -3,6 +3,6 @@ createButton: aColor at: aPosition
 
 	^ (CircleMorph new) 
 		color: aColor;
-		extent: 20@20;
+		extent: self class ButtonExtent;
 		position: aPosition + self position;
 		yourself

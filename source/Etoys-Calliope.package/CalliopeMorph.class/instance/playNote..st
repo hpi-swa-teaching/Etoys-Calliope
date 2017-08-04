@@ -1,4 +1,4 @@
 interacting
 playNote: aTune
 
-	(FMSound new soundForPitch: aTune dur: 0.2 loudness: 268) play
+	(FMSound new soundForPitch: aTune dur: self class TuneDuration loudness: self class Loudness) play

@@ -3,7 +3,7 @@ createShakeButton
 	| button image |
 	
 	button := ThreePhaseButtonMorph new.
-	image := (Form fromFileNamed: 'shakebutton.png').
+	image := (Form fromFileNamed: self class ShakeButtonFileName).
 	self addMorph: button.
 	button
 		target: self;

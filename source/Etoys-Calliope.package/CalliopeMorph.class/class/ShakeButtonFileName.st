@@ -1,0 +1,4 @@
+constants
+ShakeButtonFileName
+
+	^ 'shakebutton.png'

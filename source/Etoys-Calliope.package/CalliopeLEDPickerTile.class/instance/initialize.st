@@ -3,7 +3,7 @@ initialize
 
 	super initialize.
 	self
-		height: 140;
-		width: 140;
+		height: self class Height;
+		width: self class Width;
 		createMatrixContainer;
 		createLEDs.

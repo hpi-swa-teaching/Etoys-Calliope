@@ -1,0 +1,4 @@
+constants
+LEDHeight
+
+	^ 12

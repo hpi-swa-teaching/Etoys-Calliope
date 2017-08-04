@@ -1,0 +1,4 @@
+constants
+LEDWidth
+
+	^ 5

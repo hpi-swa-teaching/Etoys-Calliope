@@ -3,6 +3,6 @@ initialize
 
 	super initialize.
 	self 
-		width: 20;
-		height: 20;
+		width: self class Width;
+		height: self class Height;
 		turnOff

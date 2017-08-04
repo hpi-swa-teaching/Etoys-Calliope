@@ -8,4 +8,4 @@ nextArrangementFromFile: aFile
 			arrangementLine := aFile nextLine splitBy: ' '.
 			arrangement := arrangement, arrangementLine
 		].
-	^ arrangement collect: [:s | s asNumber].
+	^ arrangement collect: [:s | s asNumber]

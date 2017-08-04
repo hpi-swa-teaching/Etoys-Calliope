@@ -1,0 +1,4 @@
+constants
+Width
+
+	^ 20
