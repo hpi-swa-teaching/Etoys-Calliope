@@ -5,9 +5,7 @@ createLEDAt: aPosition
 	led := CalliopeLEDControl new.
 	self matrixContainer addMorph: led.
 	
-	^ led 
-		width: 20;
-		height: 20;
+	^ led
 		position: aPosition;
 		yourself 
 	

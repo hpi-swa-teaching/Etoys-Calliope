@@ -1,1 +1,1 @@
-A data type representing Boolean values, i.e., true or false.
+Data type for LED pickers
